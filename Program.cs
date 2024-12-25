@@ -1,8 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-/*At the Terminal command prompt, to create a new console application in a specified folder,
- type dotnet new console -o ./CsharpProjects/TestProject and then press Enter.*/
-
 // Create an instance of MyNewClass
 
 using part3Unit1of9;
