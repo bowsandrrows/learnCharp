@@ -1,4 +1,3 @@
-// ReSharper disable ExtractCommonBranchingCode
 
 namespace part3Unit1of9;
 public class MyNewClass
